@@ -14,15 +14,6 @@
 </a>  
 </div>  
 
-
-### Glad to see you here!  
-Three years ago, I started on a journey into the world of coding after switching careers, and it has been an incredible adventure. My coding journey began with the basics of programming logic, providing a strong foundation for my skills. From there, I explored HTML and CSS, and it was through these technologies that I found my true passion for front-end development. 🙌
-
-My current goal is to deepen my expertise in frameworks such as React, Vue and Angular. Additionally, I am dedicated to learning more about UI/UX principles to create web applications that are not only visually appealing but also easy and enjoyable to use. 💫   
-
-<br/>  
-
-
 ## About me  
 
 - I’m currently working at Bosch Brazil since 2023 🚀
