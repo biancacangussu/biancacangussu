@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/29175ec0-3887-4761-8816-acf55ffb6374">
 </div>
 
-<h3 align="center">a passionate Front-End Developer from Brasil</h3>
+<h3 align="center">a passionate Front-End Developer from Brazil</h3>
 
 <div align="center">
 <a href="https://github.com/https://github.com/biancacangussu" target="_blank">
